@@ -1,6 +1,6 @@
 # Sales-analysis
 This project presents an interactive Sales Analysis Dashboard built using Power BI to monitor business performance and identify key revenue and profit trends. The dashboard enables comparison of actual sales against targets, highlights high-performing product categories, and analyzes profit margins across sub-categories
-Objectives
+# Objectives
 
 Track sales vs. target achievement by category
 
@@ -12,7 +12,7 @@ Compare profit vs. quantity sold using scatter visualization
 
 Evaluate total sales performance against targets
 
-Tools & Technologies
+# Tools & Technologies
 
 Power BI
 
@@ -22,7 +22,7 @@ Data Modeling & Relationships
 
 Interactive Visualizations
 
-Insights Generated
+# Insights Generated
 
 Identified top-performing categories contributing maximum revenue
 
